@@ -20,7 +20,7 @@ export default function App() {
       <Container maxWidth="sm" sx={{ mt: 5 }}>
         <Stack spacing={3}>
           <Typography variant="h4" align="center">
-            Professional Todo App
+            Professional Todo App by Ing. David Arrieta
           </Typography>
 
           <ThemeToggle mode={mode} setMode={setMode} />
